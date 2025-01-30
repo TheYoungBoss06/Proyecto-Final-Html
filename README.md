@@ -45,6 +45,10 @@ contact.html
 
           # Formulario de contacto y mapa de ubicación
 └── 
+Politicas-de-privacidad.html
+
+          # Politicas de privacidad
+└── 
 
 README.md
 
